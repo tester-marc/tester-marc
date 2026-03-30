@@ -8,7 +8,6 @@ Since 2017, I’ve focused on **blockchain, crypto, and DLT**, applying **AI-dri
 
 🌍 Based in **Switzerland**  
 🎓 **BSc Computer Science** (ML/AI)   
-💼 **Active in Banking, Brokerage & Digital Assets since 2007**  
 🔗 **Focused on Blockchain, Crypto & DLT technologies since 2017**
 
 ---
@@ -33,7 +32,7 @@ I bring a rare combination:
 ### **AI/ML & Data Science**
 - **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
 - **LLM Infrastructure & Orchestration**: LangChain, LangGraph, LangSmith, RAG
-- **Vector Search / Databases**: FAISS
+- **Vector Search / Databases**: FAISS, Weaviate
 - **Graph Databases**: Neo4j (Certified Professional)
 - **Query Languages**: Cypher, SQL
 
@@ -45,7 +44,6 @@ I bring a rare combination:
 ### **Data & Visualization**
 - **Databases**: SQL, Neo4j
 - **Visualization**: Tableau
-- **Tools**: Jupyter, Git
 
 ### **Workflow & Automation**
 - **Automation**: n8n workflow automation
@@ -67,13 +65,7 @@ I bring a rare combination:
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-tester-273260191/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:okcomputer.108@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tester-marc&show_icons=true&theme=radical)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marc.andreas.tester@gmail.com)
 
 ---
 
